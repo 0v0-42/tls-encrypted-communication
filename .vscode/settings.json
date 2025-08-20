@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "in.h": "c",
+        "pthread.h": "c",
+        "ssl.h": "c",
+        "s_thread.h": "c"
+    }
+}
